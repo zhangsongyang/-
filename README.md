@@ -40,13 +40,8 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<div align="center">
-
-<div align="center" >
   
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
-
-</div>
 
 </div>
