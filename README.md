@@ -42,9 +42,6 @@
 
 <div align="center">
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/609147387.gif" />
-
 <div align="center" >
   
 <!-- GitHub 奖杯🏆 -->
