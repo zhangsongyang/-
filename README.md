@@ -52,7 +52,7 @@
 <div align="center">
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/609147387.gif" />
 
 <div align="center" >
   
