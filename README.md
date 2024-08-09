@@ -26,15 +26,11 @@
 
 </div>
 
-#  🙋 Hello
+
 
 <table>
   
 <tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 </td></tr>
 
