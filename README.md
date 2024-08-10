@@ -4,6 +4,7 @@
   <div>
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22路漫漫其修远兮，吾将上下而求索🤪🤪🍭🍭🍀🍀%22);&center=true&size=27" />
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C+World!%22);%E6%84%BF%E6%82%A8%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%85%85%E6%BB%A1%E9%98%B3%E5%85%89%EF%BC%8C%E5%BF%AB%E4%B9%90%E5%B8%B8%E4%BC%B4%E5%B7%A6%E5%8F%B3%EF%BC%81" alt="Typing SVG" /></a>
     </a>
   </div>
 
